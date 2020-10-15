@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/clement/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/clement/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/clement/Desktop/Veille/TensorFlowTest/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/clement/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/clement/Desktop/Veille/TensorFlowTest/app/.cxx/cmake/release/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/clement/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/clement/Desktop/Veille/TensorFlowTest/app/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "tensorflow_demo-Release-armeabi-v7a": {
+      "artifactName": "tensorflow_demo",
+      "buildCommand": "/Users/clement/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/clement/Desktop/Veille/TensorFlowTest/app/.cxx/cmake/release/armeabi-v7a\" tensorflow_demo",
+      "abi": "armeabi-v7a",
+      "output": "/Users/clement/Desktop/Veille/TensorFlowTest/app/build/intermediates/cmake/release/obj/armeabi-v7a/libtensorflow_demo.so",
+      "runtimeFiles": []
+    }
+  }
+}

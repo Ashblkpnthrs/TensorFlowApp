@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TensorFlowTest</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="tfe_pn_request_permission" translation_description="Request camera permission [CHAR_LIMIT=40]">This app needs camera permission.</string>
+</resources>

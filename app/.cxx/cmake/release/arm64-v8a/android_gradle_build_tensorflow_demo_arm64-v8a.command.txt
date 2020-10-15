@@ -1,0 +1,7 @@
+Executable : /Users/clement/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/clement/Desktop/Veille/TensorFlowTest/app/.cxx/cmake/release/arm64-v8a
+tensorflow_demo
+jvmArgs : 
+
